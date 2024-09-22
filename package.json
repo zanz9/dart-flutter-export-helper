@@ -1,14 +1,14 @@
 {
-  "name": "dart-flutter-exports",
+  "name": "dart-flutter-export-helper",
   "displayName": "Dart & Flutter Exports",
   "description": "Creates export files for Dart & Flutter folders",
-  "version": "1.0.2",
-  "publisher": "elmsec",
+  "version": "1.0.0",
+  "publisher": "zAnz",
   "icon": "icon.png",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/elmsec/dart-flutter-exports"
+    "url": "https://github.com/elmsec/dart-flutter-export-helper"
   },
   "engines": {
     "vscode": "^1.85.0"
